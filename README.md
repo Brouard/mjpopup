@@ -30,7 +30,7 @@ jQuery(document).ready(function() {
 
 <h2>Toutes les fonctionnalitées</h2>
 ___________________________________
-	
+<pre>
 jQuery(document).ready(function() {
 	jQuery(this).mjpopup({
 		//active debug
@@ -107,10 +107,10 @@ jQuery(document).ready(function() {
 		}
 	});
 });
-
+</pre>
 <h2>Le mode debug</h2>
-___________________________________
 
+<pre>
 jQuery(document).ready(function() {
 	jQuery(this).mjpopup({
 		//active debug
@@ -133,6 +133,6 @@ jQuery(document).ready(function() {
 			}
 		}
 	})
-	
+</pre>	
 	
 Je vous invite à consulter le site exemple : http://popup.mj-plugin.com
