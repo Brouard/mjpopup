@@ -75,7 +75,7 @@ jQuery(document).ready(function() {
 				'position' : 'relative',
 				'zIndex' : 999999
 			},
-			'htmlpopup' : '<img src="img/mjpopup.jpg" />'
+			'htmlpopup' : '&lt;img src="img/mjpopup.jpg" /&gt;'
 		},
 		//close button
 		'close': {
@@ -125,7 +125,7 @@ jQuery(document).ready(function() {
 		{
 			'width': 'fezfz', <= voici l'erreur
 			'height': 365,
-			'htmlpopup' : '<img src="img/mjpopup1.jpg" />',
+			'htmlpopup' : '&lt;img src="img/mjpopup1.jpg" /&gt;',
 			'css':
 			{
 				'height' : '365px',
