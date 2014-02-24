@@ -5,16 +5,16 @@ mjpopup2013
 ___________________________________
 <pre>			
 <!-- APPEL DE LA BIBLIOTHEQUE -->
-<script type="text/javascript" src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
+&lt;script type="text/javascript" src="http://code.jquery.com/jquery-1.8.3.min.js"&gt;&lt;/script&gt;
 
 <!-- APPEL DE MJPOPUP -->
-<script type="text/javascript" src="js/jquery.cookie.js"></script>
-<script type="text/javascript" src="js/mjpopup.min.1.0.0.js"></script>
+&lt;script type="text/javascript" src="js/jquery.cookie.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript" src="js/mjpopup.min.1.0.0.js"&gt;&lt;/script&gt;
 
 <!-- UTILISATION DU PLUGIN -->
-<script type="text/javascript">
+&lt;script type="text/javascript">
 //...utilisation de mjpopup
-</script>
+&lt;/script&gt;
 
 </pre>
 
