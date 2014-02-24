@@ -105,6 +105,7 @@ jQuery(document).ready(function() {
 
 Le mode debug
 ___________________________________
+
 jQuery(document).ready(function() {
 	jQuery(this).mjpopup({
 		//active debug
