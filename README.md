@@ -4,14 +4,14 @@ mjpopup2013
 <h2>Appel du plugin</h2>
 ___________________________________
 <pre>			
-<!-- APPEL DE LA BIBLIOTHEQUE -->
+&lt;!-- APPEL DE LA BIBLIOTHEQUE --&gt;
 &lt;script type="text/javascript" src="http://code.jquery.com/jquery-1.8.3.min.js"&gt;&lt;/script&gt;
 
-<!-- APPEL DE MJPOPUP -->
+&lt;!-- APPEL DE MJPOPUP --&gt;
 &lt;script type="text/javascript" src="js/jquery.cookie.js"&gt;&lt;/script&gt;
 &lt;script type="text/javascript" src="js/mjpopup.min.1.0.0.js"&gt;&lt;/script&gt;
 
-<!-- UTILISATION DU PLUGIN -->
+&lt;!-- UTILISATION DU PLUGIN --&gt;
 &lt;script type="text/javascript">
 //...utilisation de mjpopup
 &lt;/script&gt;
