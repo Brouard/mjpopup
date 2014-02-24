@@ -2,7 +2,7 @@ mjpopup2013
 ===========
 
 <h2>Appel du plugin</h2>
-___________________________________
+
 <pre>			
 &lt;!-- APPEL DE LA BIBLIOTHEQUE --&gt;
 &lt;script type="text/javascript" src="http://code.jquery.com/jquery-1.8.3.min.js"&gt;&lt;/script&gt;
@@ -19,11 +19,14 @@ ___________________________________
 </pre>
 
 <h2>Un appel simple avec son exemple</h2>
-___________________________________
+
+<pre>
 			
 jQuery(document).ready(function() {
 	jQuery(this).mjpopup();
 });
+
+</pre>
 
 <h2>Toutes les fonctionnalitées</h2>
 ___________________________________
