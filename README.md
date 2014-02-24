@@ -29,7 +29,7 @@ jQuery(document).ready(function() {
 </pre>
 
 <h2>Toutes les fonctionnalitées</h2>
-___________________________________
+
 <pre>
 jQuery(document).ready(function() {
 	jQuery(this).mjpopup({
