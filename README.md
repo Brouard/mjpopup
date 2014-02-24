@@ -1,4 +1,4 @@
-mjpopup2013
+Utilisation
 ===========
 
 <h2>Appel du plugin</h2>
