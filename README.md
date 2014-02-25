@@ -132,7 +132,7 @@ jQuery(document).ready(function() {
 				'width': '940px'
 			}
 		}
-	})
+	});
 </pre>	
 	
 Je vous invite à consulter le site exemple : http://popup.mj-plugin.com
