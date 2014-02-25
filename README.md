@@ -133,6 +133,8 @@ jQuery(document).ready(function() {
 			}
 		}
 	});
-</pre>	
-	
-Je vous invite à consulter le site exemple : http://popup.mj-plugin.com
+</pre>
+
+<h2>Plus d'infos</h2>
+
+<p>Je vous invite à télécharger le plugin ou dedans se cache une API.</p>
