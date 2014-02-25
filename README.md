@@ -123,7 +123,7 @@ jQuery(document).ready(function() {
 		//create div popup
 		'popup': 
 		{
-			'width': 'fezfz', <= voici l'erreur
+			'width': 'fezfz', &lt;= voici l'erreur
 			'height': 365,
 			'htmlpopup' : '&lt;img src="img/mjpopup1.jpg" /&gt;',
 			'css':
