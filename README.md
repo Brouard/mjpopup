@@ -137,4 +137,4 @@ jQuery(document).ready(function() {
 
 <h2>Plus d'infos</h2>
 
-<p>Je vous invite à télécharger le plugin qui contient une API. <br /> Ou rendez-vous sur http://popup.mj-plugin.com</p>
+<p>Je vous invite à télécharger le plugin qui contient une API.</p>
